@@ -175,7 +175,7 @@ I would list the following three main reasons for this:
     - Finally, I got a recommendation for webhook.site, which was a perfect fit for this simple task 
 
 
-# Takeaways and useful resources 
+## Takeaways and useful resources 
 - Once you have a broad idea for the exploit. try to develop a clearer picture of how the whole exploit is going to play out
     - Create some sort of mental list of all the things your exploit does step by step 
 - Have a clear idea of what step of the exploit you are currently working on 
